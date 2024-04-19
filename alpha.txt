@@ -1,0 +1,18 @@
+
+Create Repositories:
+  git init
+
+Make Changes:
+  add
+  commit 
+  status
+
+Parallel Development
+  branch
+  merge
+  rebase
+
+sync Repo
+  push
+  pull
+  add origin
